@@ -1,4 +1,4 @@
-# House-price-prediction
+# House Oracle : Banglore House Price Estimator
 
 The project aims to create a sophisticated real estate platform that leverages data analytics and machine learning to provide valuable insights and accurate price predictions for Homes in different areas of Banglore City. This full-stack application combines an interactive user interface with an Express.js backend to serve as a robust housing prediction platform.
 
